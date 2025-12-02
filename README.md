@@ -34,6 +34,8 @@ Criar uma ferramenta digital que substitua os métodos tradicionais de sorteio (
 
 ## 🎮 Demonstração
 
+**Link do Projeto**: [Amigo Secreto](https://janaindev.github.io/OracleNextEducation-ChallengeAmigoSecreto/)
+
 ### Como Usar:
 
 1. **Digite um nome** no campo de entrada
